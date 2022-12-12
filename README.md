@@ -19,13 +19,13 @@ This is where we keep track of all bugs and feature requests for the [Laravel Ca
 > Please note the issue tracker is not for technical support questions.
 
 If you have any questions on topics such as project vision, vision, or even technical or legal questions, we recommend joining the Laravel Cameroun Discord or Slack community and asking your question to the group:
-- **[Join the Laravel Cameroun Discord Community](https://tailwindui.com/discord)** 
+- **[Join the Discord Community](https://tailwindui.com/discord)** 
 - **[Join the Slack Group](https://laravel.cm/slack)**
 
 ## Sponsors
 We would like to thank our **amazing sponsors** for their sponsorship.
 
 - **[Laravel Shopper](https://laravelshopper.io)**
-- [Cosna Afrique](https://cosna-afrique.com)
+- [Cosna Afrique](https://cosnafrique.com)
 - [ISDEV Experts](https://www.linkedin.com/company/isdevexperts)
 - [Become a sponsor](mailto:contact@arthurmonney.me)
