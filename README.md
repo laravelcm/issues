@@ -1,5 +1,7 @@
 <p align="center">
   <img src="https://github.com/laravelcm/laravel.cm/blob/main/art/logo.svg" height="250" />
+</p>
+<p align="center">
   <a href="https://github.com/laravelcm/laravel.cm/actions">
     <img src="https://github.com/laravelcm/laravel.cm/workflows/Tests/badge.svg" alt="Build Status" />
   </a>
@@ -18,11 +20,12 @@ This is where we keep track of all bugs and feature requests for the [Laravel Ca
 
 If you have any questions on topics such as project vision, vision, or even technical or legal questions, we recommend joining the Laravel Cameroun Discord or Slack community and asking your question to the group:
 - **[Join the Laravel Cameroun Discord Community](https://tailwindui.com/discord)** 
-- **[Slack Group](https://laravel.cm/slack)**
+- **[Join the Slack Group](https://laravel.cm/slack)**
 
 ## Sponsors
 We would like to thank our **amazing sponsors** for their sponsorship.
 
 - **[Laravel Shopper](https://laravelshopper.io)**
-- [ISDEV Experts](https://localhostkmer.xyz)
-- [Become a sponsor](contact@arthurmonney.me)
+- [Cosna Afrique](https://cosna-afrique.com)
+- [ISDEV Experts](https://www.linkedin.com/company/isdevexperts)
+- [Become a sponsor](mailto:contact@arthurmonney.me)
