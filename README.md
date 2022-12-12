@@ -19,7 +19,7 @@ This is where we keep track of all bugs and feature requests for the [Laravel Ca
 > Please note the issue tracker is not for technical support questions.
 
 If you have any questions on topics such as project vision, vision, or even technical or legal questions, we recommend joining the Laravel Cameroun Discord or Slack community and asking your question to the group:
-- **[Join the Discord Community](https://tailwindui.com/discord)** 
+- **[Join the Discord Community](https://laravel.cm/discord)** 
 - **[Join the Slack Group](https://laravel.cm/slack)**
 
 ## Sponsors
