@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report a mistake or bug you've found in a feature of Jobs Portail.
+about: Report a mistake or bug you've found in a feature of Community site or Jobs Portail.
 title: ''
 assignees: ''
 ---
